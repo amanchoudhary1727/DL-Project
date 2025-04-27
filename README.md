@@ -23,6 +23,6 @@ This repository involves classifying images of cassava leaves into five categori
 ## 🚀 Getting Started
 
  **Download the dataset**:
-   Access the dataset from the [Kaggle Data Page](https://www.kaggle.com/competitions/cassava-leaf-disease-classification/data) and place it in the `data/` directory.
+   Access the dataset from the [Kaggle Data Page](https://www.kaggle.com/competitions/cassava-leaf-disease-classification/data).
 
 --- 
