@@ -2,7 +2,7 @@
 Team Members:
 1. Aman Choudhary(20221CSE0272)
 2. Raj P Singha (20221CSE0159)
-3. Nikhil Saini (20221CSE02851)
+3. Nikhil Saini (20221CSE0285)
 
 This repository involves classifying images of cassava leaves into five categories: four disease types and one healthy class. Accurate classification is crucial for early disease detection and improving crop yields in regions where cassava is a staple food. 
 ---
